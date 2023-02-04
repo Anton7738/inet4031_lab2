@@ -1,0 +1,17 @@
+This is the README for lab 2, part 1
+
+Documentation by: Anton A. Priborkin
+
+Directory contains:
+
+	hello.c
+	hello (executable)
+	hello.sh (executable)
+	hello.py (executable)
+	README (this file)
+
+Hidden directories:
+
+	.
+	..
+	.git
