@@ -6,3 +6,10 @@ c = a + b
 
 print("Python says: Hello, World!")
 print("%s + %s = %s" % (a,b,c))
+
+print("\nPart 2 Starts:")
+
+listofUsers = ["User1", "User2", "User3"]
+
+for x in listofUsers:
+    print(x)

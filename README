@@ -2,13 +2,20 @@ This is the README for lab 2, part 1
 
 Documentation by: Anton A. Priborkin
 
-Directory contains:
+Directory contains (Part 1):
 
 	hello.c
 	hello (executable)
 	hello.sh (executable)
 	hello.py (executable)
 	README (this file)
+
+Directory contains (Part 2):
+
+	processlist.save
+	fileprocessor.input
+	fileprocessor.py (executable)
+	fileprocessor2.py (executable)
 
 Hidden directories:
 
